@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "menu.h"
+#include "diff.h"
 
 int diff(const int* arr, int n){
     return max(arr, n) - min(arr, n);

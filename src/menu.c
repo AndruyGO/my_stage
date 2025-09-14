@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include "menu.h"
+#include "max.h"
+#include "min.h"
+#include "diff.h"
+#include "sum.h"
 
 int A[100];
 

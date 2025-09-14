@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "menu.h"
+#include "sum.h"
 
 int sum(const int* arr, int n){
     int Min = 1e9, Mini=0;

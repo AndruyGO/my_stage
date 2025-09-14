@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "menu.h"
+#include "min.h"
 
 int min(const int *arr, int n){
     int Min = 1e9;

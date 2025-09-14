@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "menu.h"
+#include "max.h"
 
 
 int max(const int *arr, int n){
