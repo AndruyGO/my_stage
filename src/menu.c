@@ -33,8 +33,8 @@ int main(){
         case 3:
             printf("%d\n", sum(A, n));
             break;
-		deafult:
-			printf("incorrect data\n");
+		default:
+			printf("Данные некорректны\n");
     }
     return 0;
 }
