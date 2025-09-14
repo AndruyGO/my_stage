@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include "menu.h"
+
+
+int max(const int *arr, int n){
+    int Max = -1e9;
+    for(int i = 0; i < n; i++){
+        if(arr[i] > Max){
+            Max = arr[i];
+        }
+    }
+    return Max;
+}
