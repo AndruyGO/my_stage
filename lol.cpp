@@ -1,4 +1,0 @@
-void looool(){
-
-//ldldl
-}
